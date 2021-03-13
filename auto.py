@@ -39,7 +39,7 @@ custom_params中每个元素为一个长度为2的列表，如下：
     [字段名，要覆盖的值]
 eg.
 custom_params = [
-    ["sfzx","0"]
+    ["sfzx","1"]
 ]
 """
 """
